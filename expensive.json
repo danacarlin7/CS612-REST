@@ -1,6 +1,6 @@
 {
-	"WestVillage": {
-		"italian" : ["Rafele Restaurante", "LArtusi", "Palma", "Barbuto", "dell'anima", "Morandi", "Via Carota", "I Sodi ","Lupa", "Babbo"],
+	"WestVillage" : {
+		"italian" : ["Rafele Restaurante", "LArtusi", "Palma", "Barbuto", "dell'anima", "Morandi", "Via Carota", "I Sodi","Lupa", "Babbo"],
 		"japanese" : ["Takashi","Sushi Nakazawa","Omakase Room by Tatsu", "Saikai", "EN Japanese Brasseri", "Kosaka", "DOMODOMO", "Naoki", "Sushi Samba", "MoriMoto", "catch"],
 		"french" : ["Perry St", "Boucherie", "Le Gigot", "Fedora", "The Little Owl","La Ripaille", "La Sirene", "Bagatelle", "BOBO", "Claudette"],
 		"american" : ["33 Greenwich", "Market Table", "Chumley's", "The Little OWl", "Coarse NYC", "Employees Only", "Wallflower", "Hudson Clearwater", "Bespolke Kitchen", "Quality Eats"],
@@ -51,21 +51,8 @@
 		"thai" : ["Blossom", "Buddakan"],
 		"indian" : ["Aroqa", "Blossom"],
 		"vietnamese" : [],
-		"greek" : ["Death Ave", "Mykonos Blue", "Papa Kabab Meditteranean Bistro", "The Hummus and Pita", "Wrapido", "Lemony", "Stix Bar and Grill", "Periyali"]
+		"greek" : ["Death Ave", "Mykonos Blue", "Papa Kabab Meditteranean Bistro", "The Hummus and Pita", "Wrapido", "Lemony", "Stix Bar and Grill", "Periyali"],
 		"cafe" : ["Middle Eats", "Van Leeuwen Coffee Truck"]
 	}
 
-	"Tribeca" : {
-		"italian" : ["Del Posto", "Mulino a Vino", "Scarpetta", "Da Umberto", "La Sirena Ristorante", "Cassa Nona", "Crispo", "Il Bastardo"],
-		"japanese" : ["Ushiwakamaru", "Juban", "Naoki", "Morimoto", "Momoya", "Megu", "Kappo Totto", "Sushi Seki-Chelsea"],
-		"french" : ["Mykonos Blue", "periyali", "La Piscine"],
-		"american" : ["The CLub Car at the McKittrick Hotel", "The Red Cat", "Gallow Green", "Rouge Tomate Chelsea", "The Heath", "Motel Morris", "Tipsy Parson", "33 Greenwich", "Kola House", "Fred's Downtown"],
-		"chinese" : ["Buddakan", "Jue Lan Club", "Tao Downtown""Ushiwakamaru", "Juban", "Naoki", "Morimoto", "Momoya", "Megu", "Kappo Totto", "Sushi Seki-Chelsea"],
-		"spanish" : ["Salinas", "Soccarat Paella Bar", "Tia Pol", "El Quijote", "Toro", "Francisco's Centro Vasco","Txikito", "Boqueria", "La Sirena istorante", "Lupulo"],
-		"cafe" : ["Arcade Bakery", "Galerie de Cafe", "The Wooly Daily", "Cafe Belle", "Baked", "Laughing Man Coffee and Tea","La Colombe Coffee", "Kuro-Obi at Canal Street Market", "Blue Spoon Coffee", "Everyman Espresso"],
-		"thai" : ["khe-yo", "Empire", "Macao"],
-		"indian" : ["Tamarind"],
-		"vietnamese" : ["Khe-Yo", "Macao"],
-		"greek" : [""The Greek", "Thalassa", "Antique Garage Tribeca"]
-	}
 }
